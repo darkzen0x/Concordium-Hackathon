@@ -7,5 +7,11 @@ step 1 : init
 
 
 ***step 2 :  deploying the contract screenshot***
+![image](https://user-images.githubusercontent.com/118893915/219384774-025ae39e-cd8a-47ea-9f37-81254ef1f179.png)
 
-![image](https://user-images.githubusercontent.com/118893915/219381178-82a206c7-e30d-40e9-b20d-aef43145b388.png)
+**testing the contract**
+
+![image](https://user-images.githubusercontent.com/118893915/219384888-b34652bc-3ad4-4b4c-8f01-576888393ebc.png)
+
+
+
